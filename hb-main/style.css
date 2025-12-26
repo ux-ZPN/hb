@@ -4,27 +4,15 @@
     box-sizing: border-box;
 }
 
-
 :root {
-  /* Brand Colors */
-  --primary-red: #D71920;
-  --primary-black: #0B0B0B;
-  --accent-yellow: #F4C430;
-
-  /* Neutrals */
-  --white: #FFFFFF;
-  --light-grey: #F5F5F5;
-
-  /* Text */
-  --text-dark: #333333;
-  --text-muted: #666666;
-
-  /* UI */
-  --border-radius: 6px;
-  --transition: 0.3s ease;
+    --primary: #2563eb;
+    --primary-dark: #1e40af;
+    --secondary: #f59e0b;
+    --accent: #10b981;
+    --dark: #1f2937;
+    --light: #f3f4f6;
+    --white: #ffffff;
 }
-
-
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
